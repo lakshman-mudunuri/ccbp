@@ -1,0 +1,26 @@
+/* Write your code here. */
+p {
+  color: #000000;
+}
+h1 {
+  color: #000000;
+}
+.options-card {
+  background-color: #64748d;
+  display: flex;
+  flex-direction: column;
+  margin-left: 20px;
+  border-radius: 10px;
+}
+.i {
+  display: flex;
+  justify-content: space-between;
+}
+.im {
+  width: 30px;
+  height: 30px;
+  align-self: center;
+}
+.changing {
+  background-color: #0e8684;
+}
